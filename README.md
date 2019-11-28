@@ -12,10 +12,10 @@ The ideal use case for this script is when one has an unhighlightable .pdf writt
 In order to use this notebook, all you have to do is specify where the .pdf is you would like to transcribe and specify where you want to save the translation. 
 
 # Dependencies
-pip install googletrans
-pip install pytesseract
-pip install Wand
-pip install pillow 
+pip install googletrans <br>
+pip install pytesseract <br>
+pip install Wand <br>
+pip install pillow <br>
 
 <b>NOTE</b>:
 The OCR library used for this project is <b>pytesseract</b>--Google's character recognition system for Python.
