@@ -5,9 +5,9 @@ Extract text from .pdfs and translate documents.
 
 In this notebook, I demonstrate how to take a document in .pdf format, translate the source text into a couple of languages, then save the translation as a .txt or .docx file. The source text in this example is a Finnish language masters thesis on self-taught artist Paavo Pyhtilä. The text was used with permission by its author, Pertti Pyhtilä. For the full text, check the input_dir folder or: https://jyx.jyu.fi/handle/123456789/38865 <br>
 
-An advantage that this script has over brower based translation services is there is no character limit. <br> <br>
+An advantage that this script has over brower based translation services is there is no character limit. <br> 
 
-The ideal use case for this script is when one has an unhighlightable .pdf written in one language for which one needs a translation on the fly. <br> <br>
+The ideal use case for this script is when one has an unhighlightable .pdf written in one language for which one needs a translation on the fly. <br> 
 
 In order to use this notebook, all you have to do is specify where the .pdf is you would like to transcribe and specify where you want to save the translation. 
 
