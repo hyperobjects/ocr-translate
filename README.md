@@ -1,7 +1,7 @@
-# ocr-translate
+# OCR-Translate
 Extract text from .pdfs and translate documents.
 
-# Project Description
+# Project Description:
 
 In this notebook, I demonstrate how to take a document in .pdf format, translate the source text into a couple of languages, then save the translation as a .txt or .docx file. The source text in this example is a Finnish language masters thesis on self-taught artist Paavo Pyhtilä. The text was used with permission by its author, Pertti Pyhtilä. For the full text, check the input_dir folder or: https://jyx.jyu.fi/handle/123456789/38865 <br>
 
@@ -11,7 +11,7 @@ The ideal use case for this script is when one has an unhighlightable .pdf writt
 
 In order to use this notebook, all you have to do is specify where the .pdf is you would like to transcribe and specify where you want to save the translation. 
 
-# Dependencies
+# Dependencies: 
 pip install googletrans <br>
 pip install pytesseract <br>
 pip install Wand <br>
