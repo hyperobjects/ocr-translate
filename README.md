@@ -17,7 +17,7 @@ pip install pytesseract <br>
 pip install Wand <br>
 pip install pillow <br>
 
-<b>NOTE</b>:
+<b>Note</b>:<br>
 At present, <b>pytesseract</b> provides character recognition for more languages than the library <b>googletrans</b> provides translation services for. Be sure to check that each lib supports the languages you want to work with.  
 
 For a full list of languages tesseract provides character recognition for:
