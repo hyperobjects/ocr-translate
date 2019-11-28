@@ -18,7 +18,7 @@ pip install Wand <br>
 pip install pillow <br>
 
 <b>NOTE</b>:
-The OCR library used for this project is <b>pytesseract</b>--Google's character recognition system for Python.
+At present, <b>pytesseract</b> provides character recognition for more languages than the library <b>googletrans</b> provides translation services for. Be sure to check that each lib supports the languages you want to work with.  
 
 For a full list of languages tesseract provides character recognition for:
 https://github.com/tesseract-ocr/langdata/
@@ -26,4 +26,3 @@ https://github.com/tesseract-ocr/langdata/
 For a breakdown of ISO 639-2/T and ISO 639-2/B language codes that tesseract uses:
 https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
-At present, <b>pytesseract</b> provides character recognition for more languages than the library <b>googletrans</b> provides translation services for. Be sure to check that each lib supports the languages you want to work with.  
